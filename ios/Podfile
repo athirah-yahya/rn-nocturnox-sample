@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'ktj' do
-  # Pods for ktj
+target 'RNNocturnoxSample' do
+  # Pods for RNNocturnoxSample
   pod 'React', :path => '../node_modules/react-native/'
   pod 'React-Core', :path => '../node_modules/react-native/React'
   pod 'React-DevSupport', :path => '../node_modules/react-native/React'
@@ -29,7 +29,7 @@ target 'ktj' do
 
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
-  target 'ktjTests' do
+  target 'RNNocturnoxSampleTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -37,10 +37,10 @@ target 'ktj' do
   use_native_modules!
 end
 
-target 'ktj-tvOS' do
-  # Pods for ktj-tvOS
+target 'RNNocturnoxSample-tvOS' do
+  # Pods for RNNocturnoxSample-tvOS
 
-  target 'ktj-tvOSTests' do
+  target 'RNNocturnoxSample-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

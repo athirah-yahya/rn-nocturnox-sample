@@ -128,7 +128,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.ktj"
+        applicationId "com.rnnocturnoxsample"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

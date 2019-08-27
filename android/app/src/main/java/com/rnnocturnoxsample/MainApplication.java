@@ -1,4 +1,4 @@
-package com.ktj;
+package com.rnnocturnoxsample;
 
 import android.app.Application;
 import android.util.Log;
