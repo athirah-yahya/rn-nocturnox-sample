@@ -11,7 +11,7 @@
     "react": "16.8.6",
     "react-native": "0.60.5",
     "immutable": "^4.0.0-rc.12",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "react-native-iphone-x-helper": "^1.2.1",
     "react-native-router-flux": "^4.0.6",
     "react-native-safe-area-view": "^0.14.7",
